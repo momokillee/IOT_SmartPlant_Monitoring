@@ -1,6 +1,6 @@
 ## Cold Chain Monitoring System (ESP32 + DHT11 + OLED + ThingSpeak)
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/ccb5bd50-83f2-4568-b34d-9a52056cbcd4" />
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e67f691-75e6-41c2-a22b-63691abf7b16" />
+<img width="1204" height="800" alt="image" src="https://github.com/user-attachments/assets/ccb5bd50-83f2-4568-b34d-9a52056cbcd4" />
+<img width="1204" height="800" alt="image" src="https://github.com/user-attachments/assets/3e67f691-75e6-41c2-a22b-63691abf7b16" />
 <img width="1873" height="800" alt="Screenshot (638)" src="https://github.com/user-attachments/assets/5e78ce53-e0b2-4350-820d-fa277bbee08b" />
 
 ### Overview
